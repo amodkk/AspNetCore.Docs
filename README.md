@@ -1,5 +1,6 @@
-Currently looking at the unobtrusive validation section
-Path: AspNetCore.Docs/aspnetcore/mvc/models/validation/samples/
+Unobtrusive validation: 
+Docs: https://learn.microsoft.com/en-us/aspnet/core/mvc/models/validation?view=aspnetcore-7.0
+Sample Project path in this repo: AspNetCore.Docs/aspnetcore/mvc/models/validation/samples/
 
 -------------------------
 # ASP.NET Core Docs
